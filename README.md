@@ -1,3 +1,5 @@
+This web app will be composed of three main files: index.html, style.css, and script.js
+
 # Markdown-Live-Previewer
 
 ### How to Use the App
